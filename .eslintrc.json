@@ -8,3 +8,9 @@
     "@typescript-eslint/no-explicit-any": "off"
   }
 }
+{
+  "extends": "next",
+  "rules": {
+    "@next/next/no-img-element": "off"
+  }
+}
